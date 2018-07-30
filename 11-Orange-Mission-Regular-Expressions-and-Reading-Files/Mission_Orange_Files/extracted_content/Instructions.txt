@@ -1,0 +1,17 @@
+If you are reading this, then you successfully were able to decipher the blog post on The Gold Bugs website. 
+
+The link led to a zip file. After unzipping the file you will notice this instructions.txt file and folders with many random txt files in them.
+
+Hidden within the text of these files are two links. You should be able to use regex to find the links. The links are in the form:
+
+https://drive.google.com/open?id=1tWJBFrSQL06qTZgkohs4t_a5Cu84AheLo 
+
+and
+
+https://docs.google.com/document/d/Q-DcxM17nJm_El0aGsNnY7FajaogRviwja/edit
+
+One link leads to a download of a csv file, another to a set of instructions to follow for that csv file.
+
+Download the csv file and follow the instructions in the other link for the next steps.
+
+Best of luck.
